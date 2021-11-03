@@ -1,0 +1,6 @@
+brew 'neovim'
+
+cask 'bartender'
+cask 'bettertouchtool'
+cask 'google-chrome'
+cask 'google-drive'
