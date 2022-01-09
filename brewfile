@@ -1,5 +1,6 @@
 brew 'ffmpeg'
 brew 'global'
+brew 'gpg'
 brew 'hugo'
 brew 'imagemagick'
 brew 'jq'
