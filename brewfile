@@ -12,6 +12,7 @@ brew 'openssl'
 brew 'peco'
 brew 'pt'
 brew 'sox'
+brew 'tree'
 
 cask 'bartender'
 cask 'bettertouchtool'
